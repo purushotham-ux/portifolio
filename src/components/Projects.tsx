@@ -47,8 +47,6 @@ const projectsData = [
 const categories = [
   { id: 'all', name: 'All Projects' },
   { id: 'web', name: 'Web Development' },
-  { id: 'mobile', name: 'Mobile Apps' },
-  { id: 'design', name: 'UI/UX Design' },
 ];
 
 const Projects = () => {

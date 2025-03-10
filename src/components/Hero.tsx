@@ -50,9 +50,6 @@ const Hero = () => {
                 <div className="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center text-xs font-medium">TS</div>
                 <div className="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center text-xs font-medium">R</div>
               </div>
-              <p className="text-sm text-gray-600 dark:text-gray-400">
-                Trusted by <span className="font-medium">100+</span> clients worldwide
-              </p>
             </div>
           </motion.div>
           
