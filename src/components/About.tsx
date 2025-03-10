@@ -39,7 +39,7 @@ const About = () => {
             </div>
             <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-primary rounded-lg"></div>
             <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-white dark:bg-gray-900 rounded-lg flex items-center justify-center">
-              <p className="text-lg font-bold">5+ Years Experience</p>
+              <p className="text-lg font-bold">Fresher</p>
             </div>
           </motion.div>
 
@@ -62,15 +62,15 @@ const About = () => {
             <div className="grid grid-cols-2 gap-4 mb-8">
               <div>
                 <p className="font-medium">Name:</p>
-                <p className="text-gray-600 dark:text-gray-400">John Doe</p>
+                <p className="text-gray-600 dark:text-gray-400">PURUSHOTHAM</p>
               </div>
               <div>
                 <p className="font-medium">Email:</p>
-                <p className="text-gray-600 dark:text-gray-400">hello@example.com</p>
+                <p className="text-gray-600 dark:text-gray-400">purushothamr891@gmail.com</p>
               </div>
               <div>
                 <p className="font-medium">Location:</p>
-                <p className="text-gray-600 dark:text-gray-400">New York, USA</p>
+                <p className="text-gray-600 dark:text-gray-400">Banagalore</p>
               </div>
               <div>
                 <p className="font-medium">Availability:</p>

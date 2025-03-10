@@ -77,3 +77,4 @@ const FooterLink = ({ href, children }: { href: string; children: React.ReactNod
 };
 
 export default Footer; 
+
