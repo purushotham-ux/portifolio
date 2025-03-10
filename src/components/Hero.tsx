@@ -46,9 +46,6 @@ const Hero = () => {
             
             <div className="mt-12 flex items-center gap-4">
               <div className="flex -space-x-2">
-                <div className="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center text-xs font-medium">JS</div>
-                <div className="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center text-xs font-medium">TS</div>
-                <div className="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center text-xs font-medium">R</div>
               </div>
             </div>
           </motion.div>
